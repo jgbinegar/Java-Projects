@@ -1,0 +1,5 @@
+#Writing properties to a file
+#Thu Nov 01 14:28:56 EDT 2018
+FOREGROUND=-3355444
+LAST\ FILE=/Users/jeremiah/Desktop/test2.dat
+BACKGROUND=-3342337

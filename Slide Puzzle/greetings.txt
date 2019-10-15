@@ -1,0 +1,5 @@
+line 1
+line 2
+Manifest-Version:  > Manifest.txt
+Main-Class: Main > Manifest.txt
+ClassPath: .jar > Manifest.txt
