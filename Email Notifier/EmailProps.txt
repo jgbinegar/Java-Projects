@@ -1,0 +1,10 @@
+#Creating Properties File...
+#Tue Mar 05 13:25:10 EST 2019
+INTERVAL=1
+AUDIOCLIP=Alert 1.wav
+PORTNUMBER=993
+PASSWORD=pswdJGB94
+USERNAME=jbinegar1@gmx.us
+INITIALSTART=NO
+SERVERNAME=imap.gmx.com
+SOUNDTOGGLE=true
